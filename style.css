@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+.banner{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full-width{
+    text-align: center;
+}
