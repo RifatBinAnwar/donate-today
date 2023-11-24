@@ -32,11 +32,26 @@ h1{
     color: white;    
 }
 .donate-toady h1{
-    color: black; 
+    color: black;
+    text-align: center;
+}
+.money{
+    padding:25px 150px;
+    display: flex;
+    justify-content:space-around;
+    border-radius: 5px;
+    font-size: 28px;
+    font-weight: 800;
 }
 .tk{
-    display: flex;
-    width: 10%;
-    font-weight: bold;
-    text-align: center;
+    padding: 30px 20px;
+    background-color: #FAFAFA;
+    color: #7E7E7E;
+}
+.primary{
+    color: #FF5959;
+    border-color: #FF5959;
+    border-style: outset;
+    border-radius: 10px;
+    background-image: linear-gradient(#FF5959);
 }
