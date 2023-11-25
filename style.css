@@ -21,7 +21,7 @@ h1{
 }
 .full-width{
     text-align: center;
-    padding: 10%;
+    padding: 30px 20px 100px 10px;
 }
 .link-button{
     text-decoration: none;
@@ -49,9 +49,42 @@ h1{
     color: #7E7E7E;
 }
 .primary{
-    color: #FF5959;
+    color: #fdfdfd;
     border-color: #FF5959;
     border-style: outset;
     border-radius: 10px;
-    background-image: linear-gradient(#FF5959);
+    background-image: linear-gradient(#FF5959, #d18c8c);
+}
+.other-amount{
+    text-align: center;
+}
+.box{
+    border: none;    
+    margin: 5px 0;
+    border-radius: 4px;
+    text-align: center;
+}
+hr{
+    width: 50%;
+}
+.donate-toady a{
+    text-decoration: none;
+    background-image: linear-gradient(#FF5959, tomato);
+    padding: 10px 40px 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.donate-plan h1{
+    color: black;
+}
+.half-width{
+    display: flex;
+    margin-bottom: 150px;
+}
+.card{
+    width: 33.33%;
+    padding-left: 10px;
+    height: 25px;
+    margin: 10px;
 }
