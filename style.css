@@ -84,7 +84,40 @@ hr{
 }
 .card{
     width: 33.33%;
-    padding-left: 10px;
-    height: 25px;
-    margin: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.food{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 60px 10px 400px teal;
+}
+.shelter{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 60px 10px 400px rgb(128, 0, 111);
+}
+.education{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 60px 10px 400px rgb(0, 128, 60);
+}
+.contribute{
+    width: 40%;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.contribute h1{
+    color: black;
 }
